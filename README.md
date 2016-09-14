@@ -1,13 +1,9 @@
 # HelloWorld
 This is a simple repository for Azuresongcts
 #个人简介
-##姓名
+##Azuresong
 
-Azuresong
-
-##性别
-
-男
+##（写性别的地方）
 
 ##学历
 
