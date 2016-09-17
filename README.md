@@ -2,6 +2,7 @@
 >*This is a simple repository for Azuresongcts*
 
 ##Azuresong
+![](http://imgsrc.baidu.com/forum/pic/item/812d32ce36d3d539b4f4d0573a87e950372ab0a4.jpg)
 **大学在读本科生**
 
 | 姓名          | 年龄          |性别   |
