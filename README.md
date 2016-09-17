@@ -3,9 +3,9 @@ This is a simple repository for Azuresongcts
 #个人简介
 ##Azuresong
 
-##（写性别的地方）
-
-##学历
+| 姓名          | 年龄          |性别   |
+| ------------- |:-------------:| -----:|
+| 崔            | 20            | 男    |
 
 大学在读本科生
 
