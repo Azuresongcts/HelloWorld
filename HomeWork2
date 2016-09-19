@@ -1,4 +1,4 @@
-drawPyramid(n);
+Pyramid(level);
 var level = 5;
 var line = getLine(level);;
 Pyramid(line);
