@@ -1,0 +1,18 @@
+drawPyramid(n);
+var level = 5;
+var line = getLine(level);;
+Pyramid(line);
+function Pyramid(level) {
+    for (var i = 0; i < level; i++) {
+      for (var j = 0; j < level - i; j++) {
+      console.log("");
+      }
+      for (j = 0; j < 2 * i + 1; j++) {
+      console.log("*");
+      }
+      console.log("\n");
+      }
+  }
+  function getLine(line) {
+  return line;
+  }
