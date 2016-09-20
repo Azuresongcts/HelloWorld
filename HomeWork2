@@ -1,16 +1,20 @@
 Pyramid(level);
 var level = 5;
-var line = getLine(level);;
+var line = getLine(level);
+var Star:string="";
+var Blank:string="";
 Pyramid(line);
 function Pyramid(level) {
     for (var i = 0; i < level; i++) {
       for (var j = 0; j < level - i; j++) {
-      console.log("");
+      Blank=Blank+" ";
       }
       for (j = 0; j < 2 * i + 1; j++) {
-      console.log("*");
+      Star=Star+"*";
       }
-      console.log("\n");
+      console.log(Blank+Star);
+      Blank="";
+      Star="";
       }
   }
   function getLine(line) {
