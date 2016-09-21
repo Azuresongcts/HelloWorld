@@ -3,10 +3,10 @@ var level = 5;
 var line = getLine(level);
 var Star:string="";
 var Blank:string="";
-Pyramid(line);
+PyramidBuilding(line);
 function PyramidBuilding(level) {
     for (var BlankCount = 0; BlankCount < level; BlankCount++) {
-      for (var StarCount = 0; StarCount < level - i; StarCount++) {
+      for (var StarCount = 0; StarCount < level - BlankCount; StarCount++) {
       Blank=Blank+" ";
       }
       for (StarCount= 0; StarCount< 2 * BlankCount + 1; StarCount++) {
