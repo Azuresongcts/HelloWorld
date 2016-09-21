@@ -13,8 +13,8 @@ function Pyramid(level) {
       Star=Star+"*";
       }
       console.log(Blank+Star);
-      Blank="";
       Star="";
+      Blank="";
       }
   }
   function getLine(line) {
